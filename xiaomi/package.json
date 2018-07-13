@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "gulp-sass-china": "^3.1.0",
+    "gulp-uglify": "^3.0.0"
+  }
+}
